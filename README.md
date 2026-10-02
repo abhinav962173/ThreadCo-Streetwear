@@ -1,20 +1,30 @@
 <div align="center">
 
-# THREADCO
+# 𝗧𝗛𝗥𝗘𝗔𝗗𝗖𝗢
 
-### **WEAR THE CODE. LIVE THE STREET.**
+### 𝑾𝑬𝑨𝑹 𝑻𝑯𝑬 𝑪𝑶𝑫𝑬. 𝑳𝑰𝑽𝑬 𝑻𝑯𝑬 𝑺𝑻𝑹𝑬𝑬𝑻.
 
-**A modern streetwear e-commerce experience built with HTML & CSS.**
+**A modern streetwear e-commerce experience crafted with HTML & CSS.**
 
-<br/>
+<br>
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abhinav962173)
+<a href="https://abhinav962173.github.io/ThreadCo-Streetwear/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-111111?style=for-the-badge" alt="Live Demo">
+</a>
 
-<br/><br/>
+<a href="https://github.com/abhinav962173/ThreadCo-Streetwear">
+<img src="https://img.shields.io/badge/⌘%20SOURCE%20CODE-111111?style=for-the-badge" alt="Source Code">
+</a>
 
-### 🌐 [**LIVE DEMO →**](YOUR_GITHUB_PAGES_LINK)
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-111111?style=flat-square">
+
+<br><br>
+
+**LIMITED DROPS  ·  BOLD DESIGN  ·  EVERYDAY STREETWEAR**
 
 </div>
 
@@ -22,341 +32,165 @@
 
 <div align="center">
 
-## **THREADCO — STREETWEAR, REDEFINED.**
+## 𝐒𝐓𝐑𝐄𝐄𝐓𝐖𝐄𝐀𝐑, 𝐑𝐄𝐃𝐄𝐅𝐈𝐍𝐄𝐃.
 
 </div>
 
-ThreadCo is a modern **streetwear e-commerce website** designed around a bold, minimal and fashion-focused shopping experience.
+**ThreadCo** is a modern streetwear e-commerce website built around a bold visual identity and a clean, product-focused shopping experience.
 
-From oversized tees and hoodies to cargos and caps, the website brings together **product discovery, brand storytelling and customer interaction** in one complete frontend experience.
+The project combines fashion-inspired design with a structured multi-page frontend to create an experience that feels like a **real streetwear brand**, not a generic store template.
 
 > **Built for the streets. Designed for the next drop.**
 
 ---
 
-## 🖤 WHY THREADCO?
-
-ThreadCo isn't designed to feel like a generic online store.
-
-The interface focuses on:
-
-**Bold Visuals** · **Clean Layouts** · **Product Focus** · **Streetwear Identity**
-
-The goal was to build a website that feels closer to a **real fashion brand** than a basic HTML/CSS practice project.
-
----
-
-## ⚡ EXPERIENCE
+# 𝙏𝙃𝙀 𝙀𝙓𝙋𝙀𝙍𝙄𝙀𝙉𝘾𝙀
 
 ```text
-          DISCOVER
-              ↓
-        LATEST DROPS
-              ↓
-       EXPLORE PRODUCTS
-              ↓
-       PRODUCT DETAILS
-              ↓
-          CONNECT
+DISCOVER
+   ↓
+LATEST DROP
+   ↓
+EXPLORE COLLECTION
+   ↓
+PRODUCT DETAILS
+   ↓
+CONNECT
 ```
 
-### ✦ Weekly Drops
-
-A dedicated section showcasing ThreadCo's latest streetwear releases.
-
-### ✦ Product Showcase
-
-Explore products with pricing, categories, discounts and product information.
-
-### ✦ Bestsellers
-
-A dedicated section highlighting ThreadCo's featured products.
-
-### ✦ Brand Story
-
-Sections designed to communicate the identity and values behind ThreadCo.
-
-### ✦ Customer Contact
-
-A complete contact experience with enquiry forms, business information and FAQs.
+Every page follows the same visual direction — **clean layouts, strong typography, structured spacing and product-first presentation.**
 
 ---
 
-# 🛍️ FEATURED COLLECTION
+# 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐃 𝐂𝐎𝐋𝐋𝐄𝐂𝐓𝐈𝐎𝐍
 
 | PRODUCT                      | CATEGORY |  PRICE |
-| :--------------------------- | :------- | :----: |
-| **Oversized Drop Tee Vol.3** | T-Shirt  |  ₹799  |
+| :--------------------------- | :------- | -----: |
+| **Oversized Drop Tee Vol.3** | T-Shirt  |   ₹799 |
 | **Street Hoodie - Olive**    | Hoodie   | ₹1,499 |
 | **Utility Cargo - Beige**    | Cargo    | ₹1,799 |
-| **TC 6-Panel Cap**           | Cap      |  ₹499  |
+| **TC 6-Panel Cap**           | Cap      |   ₹499 |
 
 ---
 
-# 🖥️ PAGES
+# 𝐖𝐇𝐀𝐓'𝐒 𝐈𝐍𝐒𝐈𝐃𝐄
 
-| PAGE                   | DESCRIPTION                                         |
-| :--------------------- | :-------------------------------------------------- |
-| 🏠 **Home**            | Hero section, drops, bestsellers & brand highlights |
-| 🛍️ **Products**       | Product collection and shopping interface           |
-| 👕 **Product Details** | Detailed individual product experience              |
-| 📩 **Contact**         | Contact form, store information & FAQs              |
+### 01 — HOME
 
----
+The main ThreadCo experience featuring the hero section, weekly drop, bestsellers, brand highlights and early-access section.
 
-# ✨ KEY FEATURES
+### 02 — PRODUCTS
 
-* Modern streetwear-focused UI
-* Multi-page website structure
-* Responsive layout
-* Product showcase
-* Bestseller section
-* Product pricing & discount display
-* Navigation across pages
-* Contact form
-* File upload field
-* FAQ section using HTML `<details>` & `<summary>`
-* Store information section
-* Social media links
-* Clean product-focused layout
-* Custom brand identity
+A dedicated collection page designed for browsing ThreadCo's streetwear lineup.
+
+### 03 — PRODUCT DETAILS
+
+A focused product experience built around individual product information and shopping actions.
+
+### 04 — CONTACT
+
+A complete customer communication page featuring a contact form, business information, social links and FAQs.
 
 ---
 
-# 🎨 DESIGN DIRECTION
+# 𝐊𝐄𝐘 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
 
-ThreadCo follows a **minimal streetwear aesthetic** built around:
+**01 · Multi-Page Experience**
+Home, Products, Product Details and Contact pages.
+
+**02 · Product Showcase**
+Product images, categories, pricing, discounts and details.
+
+**03 · Featured Drops**
+Dedicated sections for latest and highlighted products.
+
+**04 · Customer Contact**
+Structured contact form with multiple input types and file upload.
+
+**05 · FAQ Experience**
+Expandable FAQ sections using native HTML elements.
+
+**06 · Brand-Focused UI**
+Consistent visual identity across the entire website.
+
+---
+
+# 𝐃𝐄𝐒𝐈𝐆𝐍 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄
 
 ```text
-BOLD
-  +
-MINIMAL
-  +
-MODERN
-  +
-PRODUCT FOCUSED
-  =
-THREADCO
+              BOLD
+                +
+             MINIMAL
+                +
+             MODERN
+                +
+              STREET
+                │
+                ▼
+            THREADCO
 ```
 
-The design focuses on giving products the attention they deserve while keeping the interface clean and easy to navigate.
+ThreadCo uses a minimal streetwear-inspired visual language where the **products remain the centre of attention**.
 
 ---
 
-# 📸 PREVIEW
+# 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
 
 <div align="center">
 
-### HOME
+### 𝐇𝐎𝐌𝐄
 
-<!-- Add your homepage screenshot here -->
+<br>
 
-<br/>
+<img src="images/1.jpeg" width="85%" alt="ThreadCo Home">
 
-### PRODUCTS
+<br><br>
 
-<!-- Add your products page screenshot here -->
+### 𝐂𝐎𝐋𝐋𝐄𝐂𝐓𝐈𝐎𝐍
 
-<br/>
+<br>
 
-### PRODUCT DETAILS
+<img src="images/2.jpeg" width="85%" alt="ThreadCo Collection">
 
-<!-- Add your product details screenshot here -->
+<br><br>
 
-<br/>
+### 𝐏𝐑𝐎𝐃𝐔𝐂𝐓
 
-### CONTACT
+<br>
 
-<!-- Add your contact page screenshot here -->
+<img src="images/3.jpeg" width="85%" alt="ThreadCo Product">
 
-</div>
+<br><br>
 
-> **Tip:** Add screenshots from your actual website above to make the repository instantly visual when someone opens it.
+### 𝐂𝐎𝐍𝐓𝐀𝐂𝐓
 
----
+<br>
 
-# 🧱 PROJECT STRUCTURE
-
-```text
-ThreadCo-Streetwear/
-│
-├── index.html
-├── products.html
-├── productDetails.html
-├── contact.html
-│
-├── style.css
-├── style2.css
-│
-├── images/
-│   ├── 1.jpeg
-│   ├── 2.jpeg
-│   ├── 3.jpeg
-│   └── 4.jpeg
-│
-└── README.md
-```
-
----
-
-# 🛠️ TECH STACK
-
-<div align="center">
-
-| TECHNOLOGY  | PURPOSE                             |
-| :---------- | :---------------------------------- |
-| **HTML5**   | Website structure & semantic markup |
-| **CSS3**    | Styling, layout & visual design     |
-| **VS Code** | Development environment             |
-| **Git**     | Version control                     |
-| **GitHub**  | Source code & deployment            |
+<img src="images/4.jpeg" width="85%" alt="ThreadCo Contact">
 
 </div>
 
 ---
 
-# 🧠 WHAT I IMPLEMENTED
-
-### HTML
-
-```text
-Semantic HTML
-Navigation
-Forms
-Tables
-Lists
-Images
-Product Sections
-Figure / Figcaption
-Details / Summary
-Address
-Input Types
-Buttons
-Links
-```
-
-### CSS
-
-```text
-Flexbox
-Layout & Positioning
-Spacing
-Typography
-Colors
-Borders
-Cards
-Tables
-Forms
-Buttons
-Hover Effects
-Responsive Layout
-```
-
----
-
-# 🚀 RUN LOCALLY
-
-Clone the repository:
-
-```bash
-git clone https://github.com/abhinav962173/ThreadCo-Streetwear.git
-```
-
-Move into the project:
-
-```bash
-cd ThreadCo-Streetwear
-```
-
-Then open:
-
-```text
-index.html
-```
-
-Or run the project using **Live Server** in VS Code.
-
----
-
-# 🌐 LIVE WEBSITE
+# 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
 
 <div align="center">
 
-### EXPERIENCE THREADCO
-
-### 👉 [**OPEN LIVE DEMO**](YOUR_GITHUB_PAGES_LINK)
-
-**No setup. Just open and explore.**
+**HTML5**  ·  **CSS3**  ·  **Git**  ·  **GitHub**  ·  **VS Code**
 
 </div>
 
+| TECHNOLOGY  | ROLE                            |
+| :---------- | :------------------------------ |
+| **HTML5**   | Structure & semantic markup     |
+| **CSS3**    | Layout, styling & visual design |
+| **Git**     | Version control                 |
+| **GitHub**  | Repository & deployment         |
+| **VS Code** | Development environment         |
+
 ---
 
-# 🔮 ROADMAP
-
-ThreadCo currently focuses on the **frontend experience**.
-
-The next evolution could introduce:
+# 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐒𝐓𝐑𝐔𝐂𝐓𝐔𝐑𝐄
 
 ```text
-V1.0
-HTML + CSS
-      ↓
-V2.0
-JavaScript Interactions
-      ↓
-V3.0
-Functional Shopping Cart
-      ↓
-V4.0
-Backend + Database
-      ↓
-V5.0
-Authentication + Orders
-      ↓
-V6.0
-Payments + Order Tracking
 ```
-
-### Planned Features
-
-* 🛒 Functional cart
-* 🔍 Search & filtering
-* ❤️ Wishlist
-* 👤 User authentication
-* 📦 Order management
-* 💳 Payment integration
-* 🗄️ Backend & database
-* 📱 Advanced responsive experience
-
----
-
-# 👨‍💻 BUILT BY
-
-<div align="center">
-
-## **ABHINAV KUMAR DUBEY**
-
-**Frontend Developer • Coder • Builder**
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-abhinav962173-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abhinav962173)
-
-</div>
-
----
-
-<div align="center">
-
-# THREADCO
-
-### **WEAR THE CODE. LIVE THE STREET.**
-
-**Built with code. Inspired by the streets.**
-
-<br/>
-
-⭐ **If you like ThreadCo, consider giving the repository a star.**
-
-</div>
